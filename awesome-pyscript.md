@@ -20,6 +20,9 @@ Got something to list in Awesome PyScript?
 
 - [Chess match viewer](https://github.com/nmstoker/ChessMatchViewer) by [Neil Stoker](https://twitter.com/nmstoker) (June 2022)
 
+- [PyScript Boiler Plate - VSCode Extension](https://marketplace.visualstudio.com/items?itemName=KamranSaifullah.pyscript-boilerplate) by [Kamran Saifullah](https://twitter.com/deFr0ggy) (July 2024)
+
+
 ## Channels
 
 Ongoing sources of articles, videos, and more.
